@@ -1,4 +1,4 @@
-## W205 - Project 3 - "_Real-time streaming of digital currency data for investors_"
+## "_Real-time streaming of digital currency data for investors_"
 ### __Team__: Greg Tully, Ferdous Alam, Ricardo Jenez
 ### __Date__: 4/11/2021
 
